@@ -1,0 +1,34 @@
+{
+  "name": "ui5-task-copy-i18n",
+  "version": "0.0.1",
+  "description": "Task for the UI5 tooling to copy i18n files.",
+  "private": false,
+  "author": "Dominik Steinrücken",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominik-st/ui5-task-copy-i18n.git"
+  },
+  "keywords": [
+    "ui5",
+    "i18n",
+    "tools",
+    "translation"
+  ],
+  "dependencies": {
+    "@ui5/fs": "^1.1.2",
+    "@ui5/logger": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/dominik-st/ui5-task-copy-i18n/issues"
+  },
+  "homepage": "https://github.com/dominik-st/ui5-task-copy-i18n#readme",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No test specified\""
+  }
+}
