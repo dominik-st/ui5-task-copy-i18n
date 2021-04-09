@@ -1,6 +1,6 @@
 {
   "name": "ui5-task-copy-i18n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Task for the UI5 tooling to copy i18n files.",
   "private": false,
   "author": "Dominik Steinrücken",
